@@ -2,121 +2,167 @@
 <h3 align="center">Tech Lead | System Architect | Full-Stack Engineer</h3>
 
 <p align="center">
-Experienced software engineer with <b>10+ years of experience</b> building scalable applications, enterprise systems, and cloud infrastructure.
+Experienced software engineer with 10+ years of building scalable enterprise applications and leading engineering teams.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rishadblack&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 Professional Overview
 
-* 💼 **Tech Lead with 10+ years experience**
-* 🧠 Specializing in **System Architecture & Scalable Systems**
-* 👨‍💻 Strong background in **Full-Stack Development**
-* ☁️ Experienced with **Azure, AWS, DigitalOcean**
-* 🔧 Skilled in **CI/CD, DevOps, and Cloud Deployments**
-* 👥 Leading development teams and mentoring engineers
+Tech Lead with extensive experience in **system architecture, backend engineering, and full-stack development**.  
+I specialize in building **enterprise systems, SaaS platforms, and scalable APIs** while leading engineering teams and mentoring developers.
+
+Key strengths:
+
+* Designing scalable system architectures
+* Leading development teams
+* Building enterprise platforms and APIs
+* Implementing CI/CD and cloud infrastructure
+* Delivering reliable and maintainable software solutions
 
 ---
 
-## 🧠 Core Technical Expertise
+# 🧠 Core Technical Skills
 
 ### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=php,js,dart"/>
+</p>
 
-`PHP` `JavaScript` `Dart`
+### Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,react,vue,nextjs,flutter"/>
+</p>
 
-### Frameworks
-
-`Laravel` `React.js` `Vue.js` `Next.js` `Flutter` `CodeIgniter`
-
-### Frontend
-
-`HTML5` `CSS3` `Bootstrap` `TailwindCSS`
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind"/>
+</p>
 
 ### Databases
-
-`MySQL` `PostgreSQL` `Oracle Database` `NoSQL`
-
-### API & Backend
-
-`REST APIs` `Microservices` `Payment Gateway Integration`
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/>
+</p>
 
 ### DevOps & Cloud
-
-`Azure` `Azure DevOps CI/CD` `AWS` `DigitalOcean` `Linux` `Git`
-
----
-
-## 🏗 System Architecture Experience
-
-I have designed and implemented architectures for:
-
-* ERP Systems
-* Multi-tenant SaaS Platforms
-* Courier Management Systems
-* Trading Platforms
-* Restaurant Management Platforms
-* POS Systems
-* Enterprise APIs
-* Payment Processing Systems
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,digitalocean,linux,git"/>
+</p>
 
 ---
 
-## 💼 Leadership
+# 💼 Professional Experience
 
-As a **Tech Lead**, my responsibilities include:
+## Tech Lead / Senior Software Engineer
+* Designed **scalable enterprise application architecture**
+* Led development teams and coordinated technical tasks
+* Built backend services using **Laravel and REST APIs**
+* Implemented **CI/CD pipelines**  
+* Managed cloud deployments and integrations with external APIs
+* Ensured code quality, scalability, and performance optimization
 
-* Designing scalable software architecture
-* Leading engineering teams
-* Ensuring code quality and best practices
-* Reviewing pull requests and mentoring developers
-* Implementing CI/CD pipelines
-* Collaborating with stakeholders and product teams
+Key Projects:
 
----
-
-## 🛠 Technology Stack
-
-Backend
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge\&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge\&logo=php)
-
-Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Vue](https://img.shields.io/badge/Vue-green?style=for-the-badge\&logo=vue.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge\&logo=tailwindcss)
-
-Mobile
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge\&logo=flutter)
-
-Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge\&logo=oracle)
-
-Cloud
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge\&logo=microsoftazure)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge\&logo=amazonaws)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-blue?style=for-the-badge\&logo=digitalocean)
+* Food Delivery Payment System  
+* Restaurant Management Platform  
+* Water Treatment Plant Maintenance Software  
+* Enterprise API integrations
 
 ---
 
-## 📊 GitHub Stats
+## Software System Architect
+* Designed scalable system architectures for enterprise platforms  
+* Built and optimized database systems  
+* Led development teams across multiple software systems  
+* Collaborated with cross-functional teams for requirements  
+* Implemented backend services and integration layers
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishadblack\&show_icons=true\&theme=tokyonight)
+Key Systems:
 
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishadblack\&layout=compact\&theme=tokyonight)
-
----
-
-## 📫 Contact
-
-📧 [rishad.black@gmail.com](mailto:rishad.black@gmail.com)
-💻 https://github.com/rishadblack
+* Enterprise ERP platform  
+* Project planning and collaboration systems  
+* Business workflow management platforms
 
 ---
 
-⭐ *Passionate about building scalable systems, mentoring developers, and solving complex engineering challenges.*
+## Tech Lead
+* Led multiple enterprise software projects  
+* Designed backend systems and APIs  
+* Managed development lifecycle from requirements to deployment  
+* Mentored developers and enforced best practices
+
+Key Projects:
+
+* Courier Management System  
+* Live Trading Platform  
+* Multi-tenant E-commerce Platform
+
+---
+
+## Senior Software Engineer
+* Developed enterprise web applications  
+* Designed backend architecture using **PHP and MySQL**  
+* Built accounting and POS modules  
+* Optimized database queries and application performance  
+* Debugged complex production systems
+
+Key Systems:
+
+* POS System  
+* Accounting Management Platform  
+* Project Management System
+
+---
+
+# 🏗 Architecture Experience
+
+I have designed and developed systems such as:
+
+* Enterprise ERP systems  
+* Multi-tenant SaaS platforms  
+* Courier management systems  
+* Trading platforms  
+* Restaurant management systems  
+* POS and accounting platforms  
+* Enterprise APIs and payment systems
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishadblack&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishadblack&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishadblack&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rishadblack&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+# 📫 Contact
+
+📧 [rishad.black@gmail.com](mailto:rishad.black@gmail.com)  
+💻 [github.com/rishadblack](https://github.com/rishadblack)  
+
+---
+
+⭐ Tech Lead focused on designing scalable platforms and enabling engineering teams to deliver high-quality software.
