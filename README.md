@@ -56,66 +56,34 @@ Key strengths:
 
 ---
 
-# 💼 Professional Experience
+# 💼 Experience Highlights
 
-## Tech Lead / Senior Software Engineer
-* Designed **scalable enterprise application architecture**
-* Led development teams and coordinated technical tasks
-* Built backend services using **Laravel and REST APIs**
-* Implemented **CI/CD pipelines**  
-* Managed cloud deployments and integrations with external APIs
-* Ensured code quality, scalability, and performance optimization
+### **Tech Leadership & System Architecture**
+* Led engineering teams across multiple large-scale projects  
+* Designed **multi-tenant SaaS platforms, ERP systems, and trading platforms**  
+* Built **high-performance backend services** using Laravel, REST APIs, and modern frameworks  
+* Implemented **CI/CD pipelines, cloud deployments, and monitoring** to ensure reliability  
 
-Key Projects:
+### **Enterprise Applications & APIs**
+* Developed **POS, accounting, and project management systems**  
+* Integrated external APIs and payment gateways for real-world business workflows  
+* Optimized database queries and system performance for **MySQL, PostgreSQL, Oracle**  
 
-* Food Delivery Payment System  
-* Restaurant Management Platform  
-* Water Treatment Plant Maintenance Software  
-* Enterprise API integrations
+### **Full-Stack & Frontend Excellence**
+* Built responsive and maintainable frontends with **React, Vue, Next.js, Flutter**  
+* Styled with **Tailwind, Bootstrap, HTML, CSS** for user-friendly UI/UX  
 
----
+### **Key Projects & Impact**
+* **Food Delivery Payment System** – streamlined payments, improved processing speed  
+* **Courier Management Platform** – reduced delivery tracking errors, automated workflow  
+* **Restaurant & ERP Platforms** – multi-tenant, scalable, and performance-optimized  
+* **Trading Platform** – real-time processing, robust API integrations  
 
-## Software System Architect
-* Designed scalable system architectures for enterprise platforms  
-* Built and optimized database systems  
-* Led development teams across multiple software systems  
-* Collaborated with cross-functional teams for requirements  
-* Implemented backend services and integration layers
-
-Key Systems:
-
-* Enterprise ERP platform  
-* Project planning and collaboration systems  
-* Business workflow management platforms
-
----
-
-## Tech Lead
-* Led multiple enterprise software projects  
-* Designed backend systems and APIs  
-* Managed development lifecycle from requirements to deployment  
-* Mentored developers and enforced best practices
-
-Key Projects:
-
-* Courier Management System  
-* Live Trading Platform  
-* Multi-tenant E-commerce Platform
-
----
-
-## Senior Software Engineer
-* Developed enterprise web applications  
-* Designed backend architecture using **PHP and MySQL**  
-* Built accounting and POS modules  
-* Optimized database queries and application performance  
-* Debugged complex production systems
-
-Key Systems:
-
-* POS System  
-* Accounting Management Platform  
-* Project Management System
+### **Technical Highlights**
+* **Languages:** PHP, JavaScript, Dart  
+* **Frameworks:** Laravel, React, Vue, Next.js, Flutter  
+* **Databases:** MySQL, PostgreSQL, Oracle  
+* **Cloud & DevOps:** AWS, Azure, DigitalOcean, Linux, Git, CI/CD  
 
 ---
 
