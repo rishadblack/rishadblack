@@ -116,8 +116,13 @@ I have designed and developed systems such as:
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishadblack&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishadblack&layout=compact&theme=tokyonight"/>
+  <img width="49%" src="https://raw.githubusercontent.com/rishadblack/rishadblack/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" />
+  <img width="49%" src="https://raw.githubusercontent.com/rishadblack/rishadblack/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages in commits" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/rishadblack/rishadblack/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories by language" />
+  <img width="49%" src="https://raw.githubusercontent.com/rishadblack/rishadblack/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive commit times" />
 </p>
 
 ---
@@ -125,16 +130,18 @@ I have designed and developed systems such as:
 # 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishadblack&theme=tokyo-night"/>
+  <img width="100%" src="https://raw.githubusercontent.com/rishadblack/rishadblack/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contributions overview" />
 </p>
+
+[View my live GitHub contribution calendar](https://github.com/rishadblack#user-activity-overview)
 
 ---
 
 # 🏆 GitHub Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rishadblack&theme=tokyonight&row=1&column=6"/>
-</p>
+GitHub displays earned achievement badges directly on [my GitHub profile](https://github.com/rishadblack), when available.
+
+[View my GitHub achievements](https://github.com/rishadblack)
 
 ---
 
