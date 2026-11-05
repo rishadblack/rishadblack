@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-label="Repository portfolio snapshot: 100 accessible repositories, 9 public, 91 private">
+<rect width="1000" height="320" rx="18" fill="#0d1117"/>
+<rect x="1" y="1" width="998" height="318" rx="17" fill="none" stroke="#30363d"/>
+<text x="38" y="49" fill="#f0f6fc" font-size="25" font-weight="700" font-family="Arial,sans-serif">Repository portfolio</text>
+<text x="38" y="79" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">GitHub account snapshot · 05 Nov 2026</text>
+<circle cx="176" cy="194" r="84" fill="none" stroke="#30363d" stroke-width="26"/>
+<circle cx="176" cy="194" r="84" fill="none" stroke="#58a6ff" stroke-width="26" stroke-dasharray="47.5 480.3" transform="rotate(-90 176 194)"/>
+<text x="176" y="189" text-anchor="middle" fill="#f0f6fc" font-size="48" font-weight="700" font-family="Arial,sans-serif">100</text>
+<text x="176" y="213" text-anchor="middle" fill="#8b949e" font-size="13" font-family="Arial,sans-serif">repositories</text>
+<rect x="348" y="125" width="14" height="14" rx="3" fill="#58a6ff"/>
+<text x="376" y="138" fill="#c9d1d9" font-size="18" font-family="Arial,sans-serif">Public</text>
+<text x="916" y="138" text-anchor="end" fill="#f0f6fc" font-size="22" font-weight="700" font-family="Arial,sans-serif">9</text>
+<rect x="348" y="157" width="568" height="14" rx="7" fill="#30363d"/><rect x="348" y="157" width="51" height="14" rx="7" fill="#58a6ff"/>
+<rect x="348" y="213" width="14" height="14" rx="3" fill="#484f58"/>
+<text x="376" y="226" fill="#c9d1d9" font-size="18" font-family="Arial,sans-serif">Private</text>
+<text x="916" y="226" text-anchor="end" fill="#f0f6fc" font-size="22" font-weight="700" font-family="Arial,sans-serif">91</text>
+<rect x="348" y="245" width="568" height="14" rx="7" fill="#30363d"/><rect x="348" y="245" width="517" height="14" rx="7" fill="#484f58"/>
+</svg>
