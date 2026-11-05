@@ -101,6 +101,26 @@ My broader engineering interests include AI integrations, secure service boundar
 
 ---
 
+## Open Source & Public Code
+
+I value **open-source software, reusable tools, and sharing practical engineering work**. Alongside commercial enterprise applications, I maintain a public GitHub presence with repositories covering Laravel, multi-tenancy, templating, development tooling, and application experiments.
+
+| Repository | Area | Explore |
+| --- | --- | --- |
+| **multi-tenant** | Laravel and multi-tenancy research/code | [View repository](https://github.com/rishadblack/multi-tenant) |
+| **TwigBridge** | Twig templating integration for Laravel; public codebase based on the TwigBridge ecosystem | [View repository](https://github.com/rishadblack/TwigBridge) |
+| **cms-desktop** | CMS and desktop-style application exploration | [View repository](https://github.com/rishadblack/cms-desktop) |
+| **dev-module** | Modular development tooling/code | [View repository](https://github.com/rishadblack/dev-module) |
+| **rfbackup** | Public Laravel-based project repository | [View repository](https://github.com/rishadblack/rfbackup) |
+
+**Open-source interests:** Laravel packages and extensions, modular software architecture, developer productivity, backend utilities, and practical examples that other developers can explore.
+
+> These are links to public repositories, not a claim that I originally authored every upstream project or that each repository is a production-ready maintained package. See each repository for its current implementation, license, and history.
+
+[**Explore all public repositories →**](https://github.com/rishadblack?tab=repositories&type=public)
+
+---
+
 ## Architecture & Engineering Approach
 
 <p align="center">
