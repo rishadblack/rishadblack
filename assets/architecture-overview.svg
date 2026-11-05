@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 318" role="img" aria-label="Representative architectural areas: frontend and POS, Laravel APIs and application modules, tenant data and integrations, with Go AI assistant development as current focus">
+<rect width="1100" height="318" rx="20" fill="#0d1117"/><rect x="1" y="1" width="1098" height="316" rx="19" fill="none" stroke="#30363d"/>
+<text x="30" y="47" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#f0f6fc">Systems I build</text>
+<text x="30" y="72" font-family="Arial,sans-serif" font-size="14" fill="#8b949e">Representative architecture domains, not a diagram of a single production system</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="30" y="108" width="238" height="116" rx="13" fill="#161b22" stroke="#58a6ff"/><text x="149" y="152" font-size="19" font-weight="bold" fill="#f0f6fc">Web &amp; POS</text><text x="149" y="182" font-size="15" fill="#8b949e">UI, offline workflows</text>
+<rect x="306" y="108" width="238" height="116" rx="13" fill="#161b22" stroke="#c9a7ff"/><text x="425" y="152" font-size="19" font-weight="bold" fill="#f0f6fc">Laravel services</text><text x="425" y="182" font-size="15" fill="#8b949e">ERP, API, business logic</text>
+<rect x="582" y="108" width="238" height="116" rx="13" fill="#161b22" stroke="#3fb950"/><text x="701" y="152" font-size="19" font-weight="bold" fill="#f0f6fc">Data &amp; integrations</text><text x="701" y="182" font-size="15" fill="#8b949e">Multi-tenancy, queues</text>
+<rect x="858" y="108" width="212" height="116" rx="13" fill="#161b22" stroke="#f2cc60"/><text x="964" y="152" font-size="19" font-weight="bold" fill="#f0f6fc">Go + AI</text><text x="964" y="182" font-size="15" fill="#8b949e">Current development</text>
+<g stroke="#8b949e" stroke-width="2" fill="none"><path d="M270 166H303"/><path d="M546 166H579"/><path d="M822 166H855"/></g>
+<g fill="#8b949e"><path d="M303 166l-9 -5v10z"/><path d="M579 166l-9 -5v10z"/><path d="M855 166l-9 -5v10z"/></g>
+</g><text x="30" y="272" font-family="Arial,sans-serif" font-size="14" fill="#8b949e">Architecture  ·  Reliability  ·  Maintainability  ·  Scalable product engineering</text>
+</svg>
