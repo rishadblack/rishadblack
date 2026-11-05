@@ -113,35 +113,23 @@ I have designed and developed systems such as:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Overview
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/rishadblack/rishadblack/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" />
-  <img width="49%" src="https://raw.githubusercontent.com/rishadblack/rishadblack/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages in commits" />
+  <img src="./assets/repository-portfolio.svg" alt="Repository portfolio: 100 accessible repositories, 9 public and 91 private" width="100%" />
 </p>
+
+> **Snapshot:** 100 repositories accessible through my connected GitHub account as of November 5, 2026 (9 public, 91 private). Private repositories are not visible to every profile visitor. These figures are a snapshot, not a live API counter.
+
+### Engineering Focus
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/rishadblack/rishadblack/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories by language" />
-  <img width="49%" src="https://raw.githubusercontent.com/rishadblack/rishadblack/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive commit times" />
+  <img src="./assets/engineering-focus.svg" alt="Engineering focus areas" width="100%" />
 </p>
 
----
+### Contributions & Achievements
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/rishadblack/rishadblack/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contributions overview" />
-</p>
-
-[View my live GitHub contribution calendar](https://github.com/rishadblack#user-activity-overview)
-
----
-
-# 🏆 GitHub Achievements
-
-GitHub displays earned achievement badges directly on [my GitHub profile](https://github.com/rishadblack), when available.
-
-[View my GitHub achievements](https://github.com/rishadblack)
+My latest contribution calendar, commit history, and earned GitHub achievements are shown on my [GitHub profile](https://github.com/rishadblack). GitHub controls visibility of private contributions and achievement badges.
 
 ---
 
