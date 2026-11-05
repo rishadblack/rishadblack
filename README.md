@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm S M Rishad</h1>
-<h3 align="center">Tech Lead | System Architect | Full-Stack Engineer</h3>
+<h3 align="center">Senior Software Engineer | System Architect | Full-Stack Engineer</h3>
+<p align="center">📍 Turku, Finland 🇫🇮 &nbsp;|&nbsp; 💼 Entreform Oy &nbsp;|&nbsp; 🤖 Go & AI Applications</p>
 
 <p align="center">
-Experienced software engineer with 10+ years of building scalable enterprise applications and leading engineering teams.
+Experienced software engineer with 10+ years of building scalable enterprise applications and leading engineering teams. Currently based in Turku, Finland, working at Entreform Oy and building AI assistant-powered applications with Go.
 </p>
 
 <p align="center">
@@ -13,8 +14,10 @@ Experienced software engineer with 10+ years of building scalable enterprise app
 
 # 🚀 Professional Overview
 
-Tech Lead with extensive experience in **system architecture, backend engineering, and full-stack development**.  
+Senior Software Engineer at **Entreform Oy** in **Turku, Finland**, with extensive experience in **system architecture, backend engineering, and full-stack development**.  
 I specialize in building **enterprise systems, SaaS platforms, and scalable APIs** while leading engineering teams and mentoring developers.
+
+**Currently working on:** A Go (Golang) project focused on building an **AI assistant-powered application**, combining backend engineering with AI-driven workflows.
 
 Key strengths:
 
@@ -23,6 +26,7 @@ Key strengths:
 * Building enterprise platforms and APIs
 * Implementing CI/CD and cloud infrastructure
 * Delivering reliable and maintainable software solutions
+* Developing AI assistant-powered applications and Go backend services
 
 ---
 
@@ -30,7 +34,7 @@ Key strengths:
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,dart"/>
+<img src="https://skillicons.dev/icons?i=go,php,js,dart"/>
 </p>
 
 ### Frameworks & Libraries
@@ -53,6 +57,14 @@ Key strengths:
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure,digitalocean,linux,git"/>
 </p>
+
+---
+
+# 🤖 Current Focus — Go & AI Assistant Development
+
+- Building an **AI assistant-powered application using Go (Golang)**.
+- Exploring AI-enabled workflows, reliable backend services, and scalable application architecture.
+- Applying experience from enterprise SaaS, ERP, and API development to AI-driven software.
 
 ---
 
@@ -80,7 +92,7 @@ Key strengths:
 * **Trading Platform** – real-time processing, robust API integrations  
 
 ### **Technical Highlights**
-* **Languages:** PHP, JavaScript, Dart  
+* **Languages:** Go, PHP, JavaScript, Dart  
 * **Frameworks:** Laravel, React, Vue, Next.js, Flutter  
 * **Databases:** MySQL, PostgreSQL, Oracle  
 * **Cloud & DevOps:** AWS, Azure, DigitalOcean, Linux, Git, CI/CD  
@@ -133,4 +145,4 @@ I have designed and developed systems such as:
 
 ---
 
-⭐ Tech Lead focused on designing scalable platforms and enabling engineering teams to deliver high-quality software.
+⭐ Senior Software Engineer based in Turku, Finland — building scalable platforms and exploring AI assistant-powered applications with Go.
