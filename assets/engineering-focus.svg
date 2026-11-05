@@ -1,10 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="246" viewBox="0 0 1000 246" role="img" aria-label="Engineering domains: Go and AI assistants, SaaS architecture, backend APIs, cloud DevOps">
-<rect width="1000" height="246" rx="18" fill="#0d1117"/><rect x="1" y="1" width="998" height="244" rx="17" fill="none" stroke="#30363d"/>
-<text x="34" y="44" fill="#f0f6fc" font-size="24" font-weight="700" font-family="Arial,sans-serif">Engineering focus</text>
-<text x="34" y="70" fill="#8b949e" font-size="14" font-family="Arial,sans-serif">Areas of work · qualitative overview, not measured percentages</text>
-<g font-family="Arial,sans-serif" font-size="17" fill="#c9d1d9">
-<rect x="34" y="96" width="454" height="53" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="59" cy="122" r="7" fill="#58a6ff"/><text x="78" y="128">Go &amp; AI assistant applications</text>
-<rect x="512" y="96" width="454" height="53" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="537" cy="122" r="7" fill="#3fb950"/><text x="556" y="128">Enterprise SaaS &amp; ERP architecture</text>
-<rect x="34" y="163" width="454" height="53" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="59" cy="189" r="7" fill="#d2a8ff"/><text x="78" y="195">Backend services &amp; integrations</text>
-<rect x="512" y="163" width="454" height="53" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="537" cy="189" r="7" fill="#f2cc60"/><text x="556" y="195">Cloud infrastructure &amp; CI/CD</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 345" role="img" aria-label="Engineering experience: 10 plus years of software engineering, Laravel and enterprise SaaS specialization, currently building Go based AI applications">
+<rect width="1100" height="345" rx="20" fill="#0d1117"/><rect x="1" y="1" width="1098" height="343" rx="19" fill="none" stroke="#30363d"/>
+<text x="34" y="48" font-family="Arial,sans-serif" font-size="27" fill="#f0f6fc" font-weight="700">Engineering profile</text>
+<text x="34" y="75" font-family="Arial,sans-serif" font-size="15" fill="#8b949e">Experience and specialization  |  Turku, Finland</text>
+<rect x="34" y="99" width="322" height="208" rx="14" fill="#161b22" stroke="#30363d"/>
+<text x="56" y="170" font-family="Arial,sans-serif" font-size="68" fill="#58a6ff" font-weight="bold">10+</text>
+<text x="56" y="210" font-family="Arial,sans-serif" font-size="19" fill="#f0f6fc" font-weight="bold">Years of experience</text>
+<text x="56" y="240" font-family="Arial,sans-serif" font-size="15" fill="#8b949e">Software engineering</text>
+<text x="56" y="264" font-family="Arial,sans-serif" font-size="15" fill="#8b949e">and enterprise systems</text>
+<rect x="375" y="99" width="333" height="208" rx="14" fill="#161b22" stroke="#30363d"/>
+<text x="399" y="145" font-family="Arial,sans-serif" font-size="20" fill="#f0f6fc" font-weight="bold">Core specialization</text>
+<rect x="399" y="165" width="112" height="30" rx="7" fill="#382a54"/><text x="455" y="186" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#e2c5ff">Laravel</text>
+<text x="399" y="227" font-family="Arial,sans-serif" font-size="17" fill="#c9d1d9">Multi-tenant SaaS &amp; ERP</text>
+<text x="399" y="254" font-family="Arial,sans-serif" font-size="17" fill="#c9d1d9">APIs, integrations, POS</text>
+<text x="399" y="281" font-family="Arial,sans-serif" font-size="17" fill="#c9d1d9">System architecture</text>
+<rect x="727" y="99" width="339" height="208" rx="14" fill="#161b22" stroke="#30363d"/>
+<text x="752" y="145" font-family="Arial,sans-serif" font-size="20" fill="#f0f6fc" font-weight="bold">Current direction</text>
+<rect x="752" y="165" width="80" height="30" rx="7" fill="#163b4e"/><text x="792" y="186" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#a4eaff">Go</text>
+<rect x="842" y="165" width="132" height="30" rx="7" fill="#163b35"/><text x="908" y="186" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#a2f0c6">AI assistants</text>
+<text x="752" y="227" font-family="Arial,sans-serif" font-size="17" fill="#c9d1d9">Go backend development</text>
+<text x="752" y="254" font-family="Arial,sans-serif" font-size="17" fill="#c9d1d9">AI-powered applications</text>
+<text x="752" y="281" font-family="Arial,sans-serif" font-size="17" fill="#c9d1d9">Entreform Oy</text>
+</svg>
